@@ -76,3 +76,7 @@ Pin your best work on your GitHub profile (recommended). Suggested buckets:
 - 💼 LinkedIn: https://www.linkedin.com/in/your-link-here  
 - ✉️ dpriyeshvk@live.co.uk
 
+## Not a lot but... 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vkpriyesh&show_icons=true)
+
+
